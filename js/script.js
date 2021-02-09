@@ -66,7 +66,7 @@ function printQuote()
 /***
  * Uses the setInterval method to call the printQuote function every 10 seconds
 ***/
-const refreshTimer = setInterval(printQuote, 10000);
+const refreshTimer = setInterval(printQuote, 60000);
 
 /***
  * click event listener for the print quote button
