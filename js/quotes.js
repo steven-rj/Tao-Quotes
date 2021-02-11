@@ -21,7 +21,6 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
-
     {quote: `When beauty is only a masquerade,
         it is actually ugliness.
         And goodness, if it is not sincere,
@@ -43,6 +42,22 @@ const quotes = [
         they never depart.`,
     source: "Lao Tzu",
     citation: "Opposites",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote: `When a ruler is silent on the subject of virtue,
+    the people are discouraged from practicing it.
+    Meanwhile, a ruler who revels in riches encourages thievery.<br><br>
+    Value virtue over wealth,
+    and the people's hearts will be at rest.<br><br>
+    Wise rulers do not accumulate treasures,
+    but seek to quiet the hearts of their people.
+    They soothe the people's appetites and strengthen their bones.
+    They treasure innocence, and protect the simple from the schemes of the clever.<br><br>
+    When a ruler practices restraint, everything will be in place.`,
+    source: "Lao Tzu",
+    citation: "Restraint",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},

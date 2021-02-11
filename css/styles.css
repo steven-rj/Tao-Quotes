@@ -71,21 +71,21 @@ h1 {
 
 .quote:before,
 .quote:after {
-  font-size: 3rem;
-  line-height: 2.5rem;
+  font-size: 2rem;
+  line-height: 1rem;
   position: absolute;
 }
 
 .quote:before {
   content: "“";
   top: 0.1em;
-  left: -0.5em;
+  left: -0.35em;
 }
 
 .quote:after {
   content: "”";
   bottom: -0.1em;
-  margin-left: 0.1em;
+  margin-left: 0.01em;
   position: absolute;
 }
 
@@ -144,7 +144,7 @@ h1 {
   }
 
   .quote {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .quote:before,
