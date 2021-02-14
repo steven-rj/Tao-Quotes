@@ -77,11 +77,28 @@ const quotes = [
       Oh, it is peaceful!
       It is infinite, eternal.<br><br>
       No one knows from where it came.
-      It is older than the gods.<br>`,
+      It is older than the gods.`,
     source: "Lao Tzu",
     citation: "The Eternal Tao",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
+
+    {quote:
+      `The earth and the stars do not take sides--they are impartial.<br><br>
+      They regard all individuals as insignificant,
+      as though they were playthings made of straw.<br><br>
+      The wise are also impartial;
+      to them all people are equal and alike.<br><br>
+      The space between earth and the stars is like a bellows--it is empty but does not collapse;
+      as it contracts, it creates.<br><br>
+      Gossips, by contrast, spew out words till they are empty,
+      because they are not impartial.`,
+    source: "Lao Tzu",
+    citation: "Impartiality",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+    
 
 ]
