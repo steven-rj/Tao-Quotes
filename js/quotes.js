@@ -111,4 +111,20 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
+    {quote:
+      `The universe is eternal, and earth is lasting.<br><br>
+      The reason the universe and earth are eternal and lasting
+      is they do not exist for themselves.
+      That is why they endure.<br><br>
+      The wise humble themselves--
+      and because of their humility, they are worthy of praise.
+      They put others first, and so become great.<br><br>
+      They are not focused on outcomes or achievements;
+      therefore they always succeed.`,
+    source: "Lao Tzu",
+    citation: "Humility",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
 ]
