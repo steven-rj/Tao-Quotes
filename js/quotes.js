@@ -100,5 +100,15 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
     
+    {quote:
+      `The Spirit of the perennial spring is said to be immortal.
+      She is called the Mysterious One.<br><br>
+      The Mysterious One is the source of the universe.
+      She is continually, endlessly giving forth life, without effort.`,
+    source: "Lao Tzu",
+    citation: "The Source",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
 
 ]
