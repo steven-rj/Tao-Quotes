@@ -127,4 +127,105 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
+    {quote:
+      `True goodness is like water;
+      it nurtures everything and harms nothing.
+      Like water, it ever seeks the lowest place,
+      the place that all others avoid.<br><br>
+      This is the way of the Tao.
+      For a dwelling it chooses the quiet meadow;
+      for a heart the circling eddy.<br><br>
+      In generosity it is kind;
+      in speech it is sincere;
+      in power it is order;
+      in action it is gentle;
+      in movement it is rhythm.<br><br>
+      <p>Because it is always peaceable,
+        it soothes and refreshes.`,
+    source: "Lao Tzu",
+    citation: "Goodness",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
 ]
