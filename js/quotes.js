@@ -149,25 +149,57 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `If you continue filling a pail after it is full,
+      the water will be wasted.
+      If you continue grinding an axe after it is sharp,
+      the edge will wear away.<br><br>
+      Who can protect a house full of gold and jewels?
+      Excessive fortune brings about its own misfortune.<br><br>
+      To win true merit--to earn a good reputation--
+      you must be prudent.
+      This is the way of the Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Prudence",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
 
     {quote:
-      ``,
+      `By patience, you can discipline your desires.
+      By self-control, you can develop strong character.
+      By practicing gentleness, you can become as a little child.
+      By purifying the subconscious, you may become perfect.<br><br>
+      Because wise rulers love the people,
+      they lead without using force.<br><br>
+      In measuring out rewards,
+      wise rulers act like mother birds.
+      While seeing into every corner,
+      they are unobtrusive.
+      While protecting the people,
+      they do not control them.<br><br>
+      They are motherly and fatherly,
+      but not domineering.
+      They persuade with words, not weapons.
+      This is their crowning virtue.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Lead Without Force",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
 
     {quote:
-      ``,
+      `A wheel may have thirty spokes,
+      but its usefulness lies in the empty hub.<br><br>
+      A jar is formed from clay,
+      but its usefulness lies in the empty center.<br><br>
+      A room is made from four walls,
+      but its usefulness lies in the space between.<br><br>
+      Matter is necessary to give form,
+      but the value of reality lies in its immateriality.<br><br>
+      Everything that lives has a physical body,
+      but the value of a life is measured by the soul.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Immateriality",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
