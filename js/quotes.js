@@ -237,9 +237,28 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `It is unseen because it is colorless;
+      it is unheard because it is silent;
+      if you try to grasp it, it will elude you,
+      because it has no form.<br><br>
+      Because of its dierse qualities it cannot be summarized,
+      yet it comprises an essential unity.
+      On the surface it appears incomprehensible,
+      but in the depths it reveals itself.<br><br>
+      It has been nameless forever!
+      It appears and then disappears.
+      It is the form of the formless,
+      the image of the imageless.<br><br>
+      Its face cannot be seen in front,
+      nor its back from behind.
+      No one knows where it came from,
+      or where it is going.<br>
+      Yet, by holding fast to the ancient Tao,
+      the wise may grasp the present,
+      because they understand the past.<br><br>
+      This is a clue to the Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "The Mysterious Tao",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
