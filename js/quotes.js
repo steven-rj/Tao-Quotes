@@ -205,17 +205,33 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Too much light blinds the eye;
+      too much noise deafens the ear;
+      too many spices dull the taste;
+      too much exercise weakens the body;
+      the pursuit of great riches leads to ruin.<br><br>
+      The wise attend to the inner truth of things
+      and are not fooled by outward appearance.
+      They ignore matter and seek the spirit.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Seek The Spirit",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
 
     {quote:
-      ``,
+      `Flattery and disgrace are both to be feared,
+      just as overeating and starvation
+      are both harmful to the body.</p>
+      Flattery is fattening to the spirit;
+      disgrace is emaciating.<br><br>
+      Over-concern is just as harmful as disregard.
+      Treat yourself well, but don't pamper yourself excessively.<br><br>
+      If rulers treat the people in this same way--
+      neither too soft nor too hard--
+      they are worthy to be trusted with authority.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Avoid Extremes",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
