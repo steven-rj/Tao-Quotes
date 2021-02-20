@@ -264,9 +264,23 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `In ancient times, the masters were subtle,
+      spiritual, profound, and wise.
+      Their thoughts could not be easily understood.<br><br>
+      They were cautious as men wading across a river;
+      they were alert as soliders in wartime;
+      they were reserved as guests in another's home;
+      they were elusive as ice at the point of melting;
+      they were lowly as a valley between mountains;
+      they were obscure as muddy waters.<br><br>
+      Since they were difficult to understand,
+      I will try to make their thoughts clear.<br><br>
+      To clarify muddy waters,
+      you must hold them still and let things settle.
+      To glimpse the secret of the Tao,
+      you must keep still and quiet your mind.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Ancient Masters",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
