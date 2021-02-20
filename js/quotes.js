@@ -286,9 +286,23 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Seek an open mind--the ideal of vacuity.
+      Seek composure--the essence of tranquility.<br><br>
+      All things are in process, rising and returning.
+      Plants blossom for a reason, then return to the root.<br><br>
+      In returning to the root, we find tranquility;
+      this leads to our destiny, which is eternity.
+      To know eternity is enlightenment;
+      to ignore eternity is to invite calamity.<br><br>
+      Knowing eternity means seeing the big picture;
+      seeing the big-picture is broad-minded;
+      breadth of vision brings nobility;
+      nobility is close to divinity.<br><br>
+      The Tao is divine.
+      The Tao is the Eternal.
+      Death is not to be feared.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Know Eternity",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
