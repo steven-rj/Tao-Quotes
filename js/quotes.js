@@ -308,9 +308,19 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `If a leader lacks faith,
+      so will the people.<br><br>
+      Unworthy rulers are despised.
+      Common rulers are feared by their subjects.
+      Good rulers win the affection and praise of their subjects.<br><br>
+      But when great rulers lead,
+      the people are hardly aware of their existence.<br><br>
+      How carefully wise rulers choose their words;
+      how simple are their actions.
+      Under such a government,
+      the people think they are ruling themselves.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Invisible Leaders",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
