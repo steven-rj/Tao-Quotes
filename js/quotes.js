@@ -360,9 +360,28 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `If you would be at peace,
+      beware of great knowledge.<br><br>
+      That which is not feared by the common people
+      is probably not worth worrying about.<br><br>
+      There is a vast difference between book learning
+      and true knowledge of the Tao!<br><br>
+      Common peopel are joyful--they celebrate feast days,
+      and hold festivals in spring time.<br><br>
+      Scholars scowl like babies that have not learned to smile;
+      they look forlorn, like homeless wanderers!<br><br>
+      Common people have plenty;
+      scholars are never satisfied.<br><br>
+      Common people are vibrant with common sense;
+      scholars seem dull and confused.<br><br>
+      Common people are useful; scholars are useless.<br><br>
+      Knowledge of the Tao, how vast!
+      I am like a sailor far from shore,
+      adrift on a boundless ocean.<br><br>
+      Oh, how I long to be as a child,
+      suckling milk from Mother Tao!`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Common People",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
