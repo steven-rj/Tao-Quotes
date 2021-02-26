@@ -387,9 +387,20 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `All the many forms of virtue flow from the Tao,
+      but the nature of the Tao is infinitely illusive.<br><br>
+      Illusive, indeed,
+      but at its heart is all being.<br><br>
+      Unfathomable, indeed,
+      but at its heart is all spirit,
+      and spirit is reality.<br><br>
+      At its heart is truth.<br><br>
+      The Tao is eternal and unceasing--
+      it is present at all beginnings.<br><br>
+      How do I know this?
+      By the same Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "The Heart of the Tao",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
