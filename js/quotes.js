@@ -406,9 +406,26 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `At that time, the broken will be made perfect;
+      the bent will be made straight;
+      the empty will be filled;
+      the worn-out will be renewed;
+      those having little will obtain much;
+      and those having much will be overcome.<br><br>
+      The wise, embracing unity,
+      will become the world's model.<br><br>
+      Not striving, they will become enlightened;
+      not asserting themselves, they will become distinguished;
+      not boasting, they will be praised;
+      not building up themselves, they will endure.<br><br>
+      As much as they embrace the world,
+      the world will embrace them.<br><br>
+      Is the old saying, "The broken shall be restored."
+      a false hope?<br><br>
+      No!<br>
+      All will be restored and return rejoicing.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Redemption",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
