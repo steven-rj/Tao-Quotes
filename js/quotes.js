@@ -431,9 +431,19 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Peace is meant to be our natural state.<br><br>
+      A whirlwind never outlasts the morning,
+      nor a violent rain the day.
+      Just as earth and sky return to peace,
+      so shall we.<br><br>
+      They who act with violence become violent.
+      They who act with virtue become virtuous.
+      They who act in the spirit of the Tao become Tao-like.<br><br>
+      They who follow the Tao, the Tao will guide.
+      They who pursue virtue, virtue will reward.
+      They who live by violence, violence will soon destroy.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Peace",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
