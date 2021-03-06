@@ -449,25 +449,65 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `It is unnatural to walk on tiptoe.
+      Try to elevate yourself above others,
+      and you will soon fall.<br><br>
+      Those who display themselves do not shine;
+      those who inflate themselves do not grow;
+      those who assert themsevles do not gain merit.<br><br>
+      The relation of these things--
+      self-display, self-inflation, and self-assertion--
+      to the Tao is the same as fat to lean meat.<br><br>
+      They are unhealthy excesses,
+      fit to be trimmed off and discarded.
+      The Tao is not in them.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Self Assertion",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
 
     {quote:
-      ``,
+      `There is Being that encompasses all,
+      and it existed before earth or the universe.
+      Calm, indeed, and immaterial;
+      it is singular and changeless.<br><br>
+      All creation flows from it and returns to it.
+      It is the world's mother.
+      I cannot define it, but I will call it Tao.<br><br>
+      If forced to describe it, I will call it great.
+      The great is evasive, the evasive is distant,
+      the distant is ever coming near.<br><br>
+      The Tao is great.
+      So is the universe great,
+      so is earth,
+      and so is humanity.<br><br>
+      Humanity is the child of earth;
+      Earth is the child of the universe;
+      The universe is the child of the Tao.<br><br>
+      The Tao has no mother,
+      but is mother of all.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "The Mother of All",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
 
     {quote:
-      ``,
+      `The light overcomes the heavy;
+      the still overcomes the frantic.<br><br>
+      The wise never forget their dignity;
+      though surrounded by dazzling sights,
+      they remain calm and unmoved.<br><br>
+      How did it happen that the emperor,
+      master of then thousand chariots,
+      lost control of his empire?<br><br>
+      Being flippant himself,
+      he lost the respect of his subjects.
+      Failing to control himself,
+      he lost the control of his empire.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Self-Mastery",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
