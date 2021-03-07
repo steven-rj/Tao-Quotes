@@ -513,9 +513,23 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Good hikers need no maps;
+      good speakers need no scripts;
+      good counters need no abacus;
+      good guards need no locks.<br><br>
+      The wise, trusting in goodness,
+      see the potential in others,
+      treating no one as an outcast.<br><br>
+      Trusting in goodness,
+      they redeem all things--
+      nothing is worthless to them.<br><br>
+      They recognize hidden value.<br><br>
+      The wise take the lost under their wings,
+      and so the lost become newfound treasures of the wise.<br><br>
+      Each is valuable to the other.
+      This is the significane of spirituality.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Hidden Values",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
