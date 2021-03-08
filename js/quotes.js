@@ -535,9 +535,22 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Those who know both their masculine
+      and their feminine sides
+      become fruitful like the valleys of earth.<br><br>
+      Being like the valleys of earth,
+      their vitality will not desert them--
+      they will remain energetic as children.<br><br>
+      Those who know both their strenghts and their limits
+      become models worth following.<br><br>
+      Being worthy models,
+      their vitality will not fail them
+      --they will radiate simplicity.<br><br>
+      Radiating simplicity;
+      wise rulers inspire others to follow their path.
+      Such is the making of a great administration.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Know Yourself",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
