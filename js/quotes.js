@@ -556,9 +556,18 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Those who try to seize power and remake society will fail.
+      Society is a divine thing that cannot be remade.
+      One who attempts to remake it will only deface it.<br><br>
+      Those who grasp for power will lose it.<br><br>
+      People differ--some lead, others follow;
+      some are passionate, others are reserved;
+      some are strong, others are weak;
+      some succeed, others fail.<br><br>
+      The wise respect the roles of all,
+      and seek moderation in all things.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Power",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
