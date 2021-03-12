@@ -573,9 +573,25 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `When rulers follow the Tao,
+      they have no need for armies to strengthen their country;
+      their country is strong
+      because its government is a blessing to all.<br><br>
+      Briars and thorns spring up wherever an army camps.
+      Great wars are followed by bad harvests.<br><br>
+      Good rulers are firm,
+      but they dare not take by force.
+      They are firm but not boastful;
+      firm but not haughty;
+      firm but not arrogant;
+      firm but yielding to the unavoidable;
+      firm but not resorting to violence.<br><br>
+      When rulers resort to force,
+      things florish for a time, but then decay.
+      They are going against the Tao,
+      and anything opposed to the Tao will soon die.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Firm But Not Forceful",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
