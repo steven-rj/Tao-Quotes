@@ -597,17 +597,46 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Among all tools, weapons alone are cursed;
+      all men come to despise them.<br><br>
+      Those who follow Tao do not need them.
+      Weapons are not the tools of the wise;
+      only as a last resort do the wise use them.<br><br>
+      Peace and tranquility are valued by wise rulers.
+      Even when victorious in battle, they do not rejoice,
+      for they never exalt over the killing of others.<br><br>
+      Those rulers who rejoice over killing others
+      will never bring happiness to their people.<br><br>
+      The killing of others fills the people with sorrow.
+      We lament with tears because of it,
+      and honor the victors solemnly,
+      as if we were attending a funeral ceremony.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Avoid War",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
 
     {quote:
-      ``,
+      `The eternal Tao is unnamable.
+      In its simplicity it appears insignificant,
+      but the whole world cannot contain it.<br><br>
+      If rulers would follow it,
+      their citizens would pay homage.
+      If the people would follow it,
+      they would have no need of rulers.<br><br>
+      Earth and sky are made one by it,
+      forming sweet dew drops.
+      When the Tao expresses itself in creation,
+      it becomes visible.<br><br>
+      If you follow the Tao,
+      you will understand where to stop.
+      Knowing where to stop,
+      you will be free from danger.<br><br>
+      The Tao is like a stream
+      that empties into an ocean.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Where To Stop",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
