@@ -642,6 +642,19 @@ const quotes = [
     photo: "images/"},
 
     {quote:
+      `Those who know others are intelligent;
+      those who understand themselves are enlightened.<br><br>
+      Those who can conquer others have force;
+      those who can control themselves are mighty.<br><br>
+      Those who dare risk death have courage;
+      but those who death cannot destroy are immortal.`,
+    source: "Lao Tzu",
+    citation: "Immortality",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
@@ -656,6 +669,16 @@ const quotes = [
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
+
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
 
 
 ]
