@@ -655,9 +655,20 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `The great Tao is everywhere!
+      It is on both the right and the left.
+      All things rely upon it for their existence,
+      and it sustains them.
+      It draws praise, but is not proud.
+      It lovingly nourishes everything,
+      and is not possessive.
+      It desires nothing, and so it is considered small.
+      Yet everything returns to it,
+      and so it should be considered great.
+      The wise do not appear great among others;
+      and so they reveal their true greatness.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "True Greatness",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
