@@ -674,13 +674,18 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Trifles and dainties attract the passing people,
+      while the Tao goes unnoticed.<br><br>
+      When looked at, it is not much to see;
+      when listened for, it can scarcely be heard;
+      but when put into practice, it is inexhaustible.<br><br>
+      The world will go to those who seek the Tao;
+      they will find contentment, peace, and rest.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Seek The Tao",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
-
 
     {quote:
       ``,
@@ -690,6 +695,13 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
 
 
 ]
