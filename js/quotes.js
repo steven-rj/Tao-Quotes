@@ -704,12 +704,37 @@ const quotes = [
     photo: "images/"},
 
     {quote:
+      `The Tao does nothing,
+      and yet nothing remains undone.<br><br>
+      If rulers desire to keep everything in order,
+      they must first order themselves.
+      If rulers would follow the example of Tao,
+      all problems would resolve themselves.<br><br>
+      The way of the Tao is simple--
+      stop striving, defeat desire.
+      In the absense of striving, there is peace;
+      in the absense of desire, there is satisfaction.`,
+    source: "Lao Tzu",
+    citation: "Stop Striving",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
 
 
 ]
