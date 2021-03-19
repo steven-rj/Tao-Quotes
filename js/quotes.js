@@ -688,9 +688,17 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `That which contracts was first expanded;
+      that which weakens was first made strong;
+      that which falls was first raised up;
+      that which scatters was first gathered up.<br><br>
+      It is paradoxical but true--
+      the tender outlasts the rigid;
+      the gentle defeats the strong.<br><br>
+      Persuasion is better than compulsion.
+      Rulers have nothing to gain through force of arms.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Persuasion",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
