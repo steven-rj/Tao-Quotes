@@ -720,6 +720,42 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
     {quote:
+      `True virtue makes no show of virtue,
+      and therefore it is really virtuous.
+      False virtue never loses sight of itself,
+      and therefore it is no longer virtue.<br><br>
+      True virtue does not assert itself,
+      and therefore is unpretentious.
+      False virtue is acting a part,
+      and thereby is only pretense.<br><br>
+      When the Tao is lost, there is only virtue;
+      when virtue is lost, there is only generosity;
+      when generosity is lost, there is only justice;
+      when justice is lost, only tradition remains.<br><br>
+      Tradition reduces loyalty and good faith to a shadow;
+      it is the beginning of disorder.
+      Tradition is the mere flower of the Tao--
+      apart from its root it withers and dies.<br><br>
+      The truly great embody the spirit,
+      not just the external appearance.
+      They bear fruit--not just blossoms.
+      They do not put on a show of virtue--
+      they practice it.`,
+    source: "Lao Tzu",
+    citation: "True Virtue",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
