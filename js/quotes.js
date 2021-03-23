@@ -748,9 +748,31 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Only those who attain unity
+      become what they are meant to be.<br><br>
+      The heavens attained unity, and became space.
+      Matter attained unity, and became earth.
+      Spirit attained unity, and became mind.
+      Valleys attained unity, and rivers flowed into them.<br><br>
+      All things that attain unity have life.
+      And the highest is that which produces unity.
+      Rulers, as they attain unity,
+      become models of conduct for the people.<br><br>
+      If heaven were not space, it would fall;
+      if earth were not solid, it would melt;
+      if spirit were not unified, it would vanish;
+      if valleys were not unified, they would dry up.<br><br>
+      Everything, if not for life, would dissipate.
+      Rulers, if they overestimate themselves, will fail.<br><br>
+      Nobles should find their roots among the commoners,
+      for the high is always founded upon the low.<br><br>
+      Great rulers identify with orphans, inferiors,
+      and the unworthy, because they recognize their roots
+      in the lowest of their people.<br><br>
+      The wise do not desire to be set aside as precious gems,
+      nor discarded as worthless stones.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Unity",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
