@@ -807,6 +807,29 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
+
+    {quote:
+      `The Tao seems nonexistent,<br>
+            but it is the basis of existence.</p>
+          <p>The universe, the earth, and everything in it<br>
+            comes from existence,<br>
+            but existence comes from nonexistence.`,
+    source: "Lao Tzu",
+    citation: "Nonexistence",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},  
+    
+    
     {quote:
       ``,
     source: "Lao Tzu",
@@ -814,7 +837,5 @@ const quotes = [
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
-
-
 
 ]
