@@ -778,9 +778,31 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `A great student, when he hears of the Tao,
+      earnestly practices it.
+      A good student, when he hears of the Tao,
+      sometimes follows it and sometimes loses it.
+      A typical student, when he hears of the Tao, ridicules it.<br><br>
+      Were it not easily ridiculed, it would not be the true Tao.<br><br>
+      Those most illuminated by the Tao
+      are often the dimmest.
+      Those most advanced in the Tao
+      are often the furthest behind.<br><br>
+      Those best guided by the Tao
+      are the least self-assured.<br><br>
+      Those high in virtue resemble lowly valleys;
+      the innocent are more likely to be shamed;
+      the best craftsmen can seem inefficient;
+      the most generous are indistinguishable from the poor.<br><br>
+      The greatest square has no corners;
+      the greatest vessel is never filled.
+      The greatest sound has no speech;
+      the greatest form has no shape.<br><br>
+      The Tao is obscure and without name,
+      and yet it is precisely this Tao
+      that alone can fulfill and complete.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Students",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
