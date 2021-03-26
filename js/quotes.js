@@ -822,9 +822,20 @@ const quotes = [
 
 
     {quote:
-      ``,
+      `The Tao produces unity;
+            unity produces duality;
+            duality produces trinity;
+            trinity produces all things.<br><br>
+            All things contain both the negative principle (yin)
+            and the positive principle (yang).
+            The third principle, energetic vitality (chi),
+            makes them harmonious.<br><br>
+            There are some things which it is a gain to lose,
+            and a loss to gain.<br><br>
+            this may not be what they teach in school,
+            but it is the first lesson in the Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Yin and Yang",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},  
