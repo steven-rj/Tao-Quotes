@@ -873,9 +873,18 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Extreme perfection seems imperfect,
+            for it never stops perfecting.<br><br>
+            Extreme fulfillment appears emtpy,
+            for it never stops filling.<br><br>
+            Extreme straightness appears crooked;
+            extreme skill, clumsy
+            extreme eloquence, stammering.<br><br>
+            Not extreme perfection,
+            but purity and clarity are the targets
+            at which we should aim.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Perfectionism",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
