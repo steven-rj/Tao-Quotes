@@ -856,14 +856,39 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
-        {quote:
+    {quote:
+      `     Which is better, fame or integrity?
+            Which is more valuable, riches or good character?
+            Which is more dangerous, failure or success?<br><br>
+            Overindulgence creates waste.
+            Hoarding invites loss.<br><br>
+            the man who is content with what he has
+            is not in danger of loss.
+            The man who knows when to stop
+            is free to go on.`,
+    source: "Lao Tzu",
+    citation: "True Freedom",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
-        {quote:
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
