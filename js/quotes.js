@@ -842,9 +842,16 @@ const quotes = [
     
     
     {quote:
-      ``,
+      `The soft overcomes the hard;
+            the flexible conquers the stiff;
+            the ethereal penetrates the solid.<br><br>
+            this is why there is great advantage
+            in stillness and silence
+            over movement and speaking.<br><br>
+            But few ever obtain the advantage,
+            for few practice stillness and silence.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Stillness and Silence",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
