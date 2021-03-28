@@ -809,11 +809,11 @@ const quotes = [
 
 
     {quote:
-      `The Tao seems nonexistent,<br>
-            but it is the basis of existence.</p>
-          <p>The universe, the earth, and everything in it<br>
-            comes from existence,<br>
-            but existence comes from nonexistence.`,
+      `The Tao seems nonexistent,
+        but it is the basis of existence.<br><br>
+        The universe, the earth, and everything in it
+        comes from existence,
+        but existence comes from nonexistence.`,
     source: "Lao Tzu",
     citation: "Nonexistence",
     //year: 201,
@@ -823,17 +823,17 @@ const quotes = [
 
     {quote:
       `The Tao produces unity;
-            unity produces duality;
-            duality produces trinity;
-            trinity produces all things.<br><br>
-            All things contain both the negative principle (yin)
-            and the positive principle (yang).
-            The third principle, energetic vitality (chi),
-            makes them harmonious.<br><br>
-            There are some things which it is a gain to lose,
-            and a loss to gain.<br><br>
-            this may not be what they teach in school,
-            but it is the first lesson in the Tao.`,
+        unity produces duality;
+        duality produces trinity;
+        trinity produces all things.<br><br>
+        All things contain both the negative principle (yin)
+        and the positive principle (yang).
+        The third principle, energetic vitality (chi),
+        makes them harmonious.<br><br>
+        There are some things which it is a gain to lose,
+        and a loss to gain.<br><br>
+        this may not be what they teach in school,
+        but it is the first lesson in the Tao.`,
     source: "Lao Tzu",
     citation: "Yin and Yang",
     //year: 201,
@@ -843,13 +843,13 @@ const quotes = [
     
     {quote:
       `The soft overcomes the hard;
-            the flexible conquers the stiff;
-            the ethereal penetrates the solid.<br><br>
-            this is why there is great advantage
-            in stillness and silence
-            over movement and speaking.<br><br>
-            But few ever obtain the advantage,
-            for few practice stillness and silence.`,
+        the flexible conquers the stiff;
+        the ethereal penetrates the solid.<br><br>
+        this is why there is great advantage
+        in stillness and silence
+        over movement and speaking.<br><br>
+        But few ever obtain the advantage,
+        for few practice stillness and silence.`,
     source: "Lao Tzu",
     citation: "Stillness and Silence",
     //year: 201,
@@ -857,15 +857,15 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      `     Which is better, fame or integrity?
-            Which is more valuable, riches or good character?
-            Which is more dangerous, failure or success?<br><br>
-            Overindulgence creates waste.
-            Hoarding invites loss.<br><br>
-            the man who is content with what he has
-            is not in danger of loss.
-            The man who knows when to stop
-            is free to go on.`,
+        `Which is better, fame or integrity?
+        Which is more valuable, riches or good character?
+        Which is more dangerous, failure or success?<br><br>
+        Overindulgence creates waste.
+        Hoarding invites loss.<br><br>
+        the man who is content with what he has
+        is not in danger of loss.
+        The man who knows when to stop
+        is free to go on.`,
     source: "Lao Tzu",
     citation: "True Freedom",
     //year: 201,
@@ -874,17 +874,40 @@ const quotes = [
 
     {quote:
       `Extreme perfection seems imperfect,
-            for it never stops perfecting.<br><br>
-            Extreme fulfillment appears emtpy,
-            for it never stops filling.<br><br>
-            Extreme straightness appears crooked;
-            extreme skill, clumsy
-            extreme eloquence, stammering.<br><br>
-            Not extreme perfection,
-            but purity and clarity are the targets
-            at which we should aim.`,
+       for it never stops perfecting.<br><br>
+       Extreme fulfillment appears emtpy,
+       for it never stops filling.<br><br>
+       Extreme straightness appears crooked;
+       extreme skill, clumsy
+       extreme eloquence, stammering.<br><br>
+       Not extreme perfection,
+       but purity and clarity are the targets
+       at which we should aim.`,
     source: "Lao Tzu",
     citation: "Perfectionism",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      `When a nation follows the Tao,
+      its horses are harnessed to ploughs.
+      When a nation ignores the Tao,
+      its horses are girded for war.<br><br>
+      There is no sin greater than desire.
+      There is no misfortune greater than discontent.
+      There is no calamity greater than greed.<br><br>
+      To know the Tao is to know contentment.`,
+    source: "Lao Tzu",
+    citation: "Contentment",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
