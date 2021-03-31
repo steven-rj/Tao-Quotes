@@ -905,9 +905,18 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Without going abroad,
+      you can have knowledge of the world.
+      Without gazing at the stars,
+      you can perceive the heavenly Tao.<br><br>
+      The more you wander, the less you know.<br><br>
+      The wise explore without traveling,
+      discern without seeing,
+      finish without striving,
+      and arrive at their destintaion
+      without leaving home.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Explore Within",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
