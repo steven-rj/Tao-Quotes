@@ -922,9 +922,18 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Those who study in school become clever,
+        while those who practice the Tao become simple.<br><br>
+        Again and again,
+        students of the Tao must humble themselves,
+        until they reach the state of non-doing.<br><br>
+        Then they will do nothing,
+        yet leave nothing undone.<br><br>
+        In ruling a nation,
+        one must not use cleverness.
+        The clever are not fit to command.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Cleverness",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
