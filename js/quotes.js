@@ -939,6 +939,31 @@ const quotes = [
     photo: "images/"},
 
     {quote:
+      `Wise rulers have boundless hearts;
+       for in the hearts of the people, they find their own.<br><br>
+       The wise ruler treats the good with goodness;
+       and treats the not-so-good with goodness, too--
+       for goodness is its own reward.<br><br>
+       The wise ruler treats the faithful with good faith;
+       he treats the unfaithful with good faith, too--
+       for good faith is its own reward.<br><br>
+       Wise rulers are universal--
+       the people are their eyes and ears.`,
+    source: "Lao Tzu",
+    citation: "Universality",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
