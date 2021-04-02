@@ -268,7 +268,7 @@ const quotes = [
       spiritual, profound, and wise.
       Their thoughts could not be easily understood.<br><br>
       They were cautious as men wading across a river;
-      they were alert as soliders in wartime;
+      they were alert as soldiers in wartime;
       they were reserved as guests in another's home;
       they were elusive as ice at the point of melting;
       they were lowly as a valley between mountains;
@@ -342,7 +342,7 @@ const quotes = [
     {quote:
       `Abandon the pretense of saintliness and asceticism,
       and the people will pursue virtue.<br><br>
-      Abandon ostenatious benevolence
+      Abandon ostentatious benevolence
       and conspicuous righteousness;
       then the people will return to the core virtues
       of love and respect.<br><br>
@@ -454,7 +454,7 @@ const quotes = [
       and you will soon fall.<br><br>
       Those who display themselves do not shine;
       those who inflate themselves do not grow;
-      those who assert themsevles do not gain merit.<br><br>
+      those who assert themselves do not gain merit.<br><br>
       The relation of these things--
       self-display, self-inflation, and self-assertion--
       to the Tao is the same as fat to lean meat.<br><br>
@@ -527,7 +527,7 @@ const quotes = [
       The wise take the lost under their wings,
       and so the lost become newfound treasures of the wise.<br><br>
       Each is valuable to the other.
-      This is the significane of spirituality.`,
+      This is the significance of spirituality.`,
     source: "Lao Tzu",
     citation: "Hidden Values",
     //year: 201,
@@ -587,7 +587,7 @@ const quotes = [
       firm but yielding to the unavoidable;
       firm but not resorting to violence.<br><br>
       When rulers resort to force,
-      things florish for a time, but then decay.
+      things flourish for a time, but then decay.
       They are going against the Tao,
       and anything opposed to the Tao will soon die.`,
     source: "Lao Tzu",
@@ -956,9 +956,24 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Life is a going forth;
+        death is a returning home.<br><br>
+        Out of ten people,
+        three are seeking life,
+        three are seeking death,
+        three are dying.
+        Only one is immortal.<br><br>
+        The wise, when they travel,
+        are never attacked by wild beasts;
+        and when coming among soldiers,
+        they do not fear for their lives.<br><br>
+        The rhinoceros cannot find a place to horn them,
+        nor the tiger a place to claw them,
+        nor soldiers a place to wound them.<br><br>
+        Why?<br>
+        Because the wise are invulnerable.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Invulnerable",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
@@ -970,5 +985,23 @@ const quotes = [
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
+
+        {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+
+        {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
 
 ]
