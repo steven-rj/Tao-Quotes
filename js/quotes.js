@@ -979,9 +979,23 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `The Tao gives life to all things;
+        virtue feeds them;
+        matter shapes them;
+        energy completes them.<br><br>
+        This is why all things honor the Tao and esteem virtue.
+        Honor for the Tao and esteem for virtue
+        arise spontaneously.<br><br>
+        For the Tao gives life to all creatures;
+        and virtue nurses them, raises them,>br>
+        nurtures, matures, and protects them.<br><br>
+        The Tao gives life freely,
+        making no claim of ownership.
+        Virtue forms them but does not force them,
+        raises them but does not rule them.<br><br>
+        This is why virtue is profound.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Profound Virtue",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
