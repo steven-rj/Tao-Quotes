@@ -1000,10 +1000,24 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
-        {quote:
-      ``,
+    {quote:
+      `When creation began,
+       the Tao became the world's mother.<br><br>
+       When you know your mother,
+       you also knw that you are her child.
+       When you recognize that you are a child,
+       you will stay close to your mother
+       so she can keep you safe.<br><br>
+       Those who watch their mouths and guard their actions
+       will be free from trouble to the end of life.
+       Those who babble and meddle in other's business
+       cannot escape from trouble, even to the end of life.<br><br>
+       To recognize your insignificance is empowering.
+       To show sympathy is strength.
+       Those who follow the Tao's light
+       arrive at enlightenment.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "The Tao's Light",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
