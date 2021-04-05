@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="579e77ec-0904-4324-87b6-95031e61ea5d" name="Default Changelist" comment="added chapters">
+    <list default="true" id="579e77ec-0904-4324-87b6-95031e61ea5d" name="Default Changelist" comment="added more blank templates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/quotes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,8 @@
       <workItem from="1617405730640" duration="275000" />
       <workItem from="1617406015421" duration="24000" />
       <workItem from="1617454235314" duration="94000" />
-      <workItem from="1617540428023" duration="256000" />
+      <workItem from="1617540428023" duration="286000" />
+      <workItem from="1617666942257" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="added chapters">
       <created>1616878939867</created>
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617540543531</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added more blank templates">
+      <created>1617540702831</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617540702831</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added chapters and cleaned-up previous quotes" />
     <MESSAGE value="added chapters" />
-    <option name="LAST_COMMIT_MESSAGE" value="added chapters" />
+    <MESSAGE value="added more blank templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more blank templates" />
   </component>
 </project>

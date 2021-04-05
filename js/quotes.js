@@ -1023,9 +1023,22 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Even if you lack great learning,
+      still you can walk in the ways of the great Tao.
+      It is not ignorance, but cleverness that you should fear.<br><br>
+      The great Way is very plain,
+      so the proud prefer the bypaths.<br><br>
+      When the palace is splendid,
+      The fields are likely to be weedy
+      and the granaries empty.<br><br>
+      To wear jewels and silks,
+      to flash your weapons,
+      to eat and drink excessively,
+      to store up wealth and treasure--
+      this is the way of robbers.<br><br>
+      Pomp is contrary to the Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "The Plain Way",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
