@@ -1044,9 +1044,27 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `A tree that is well-planted is not easily uprooted.
+        A treasure that is well-guarded is not easily taken away.
+        If you pass on the Tao to your children,
+        your family's virtue will endure.<br><br>
+        The one who practices the Tao
+        shows that virtue is real.
+        The family that practices the Tao
+        shows that virtue is abiding.
+        The township that practices the Tao
+        shows that virtue is enduring.
+        The nation that practices the Tao
+        shows that virtue is expansive.
+        The empire that practices the Tao
+        shows that virtue is universal.<br><br>
+        One person becomes a model for others,
+        one family for other families,
+        one town for other towns,
+        one nation for other nations,
+        one empire for all empires`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "A Model For Others",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
