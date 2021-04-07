@@ -1070,9 +1070,28 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `The virtuous are like innocent children--
+        poisonous insects will not sting them,
+        wild beasts will not seize them,
+        birds of prey will not attack them.<br><br>
+        Their bones may be weak,
+        and their muscles tender,
+        but their grasp is sure.<br><br>
+        They know nothing of power,
+        yet they are bursting with life.<br><br>
+        Their spirits are strong, indeed!
+        They can sob and cry all day without becoming hoarse;
+        their voices are harmonious, indeed!<br><br>
+        To know this harmony is to know the eternal.
+        To know the eternal is to know enlightenment.
+        To increase life is to know blessedness.
+        To increase inner vitality is to gain strength.<br><br>
+        As creatures grow and mature,
+        they begin to decay.
+        This is the opposite of the Tao--
+        the Tao remains ever young.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Become Childlike",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
