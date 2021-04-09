@@ -1097,9 +1097,20 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Those who talk do not know;
+        those who know do not talk.<br><br>
+        The wise shut their mouths
+        and watch their actions.<br><br>
+        They dull their sharpness,
+        unravel their tangles,
+        dim their brilliance,
+        and embrace the mysterious.<br><br>
+        They cannot be moved by praise or blame;
+        they cannot be changed by profit or loss;
+        they cannot be honored or humiliated.<br><br>
+        And so the wise are truly honored.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Embrace Mystery",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},

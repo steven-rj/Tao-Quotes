@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="579e77ec-0904-4324-87b6-95031e61ea5d" name="Default Changelist" comment="added blank quote templates">
+    <list default="true" id="579e77ec-0904-4324-87b6-95031e61ea5d" name="Default Changelist" comment="added quotes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/quotes.js" afterDir="false" />
     </list>
@@ -53,7 +53,8 @@
       <workItem from="1617746550083" duration="17000" />
       <workItem from="1617746582845" duration="193000" />
       <workItem from="1617836106266" duration="33000" />
-      <workItem from="1617836200391" duration="305000" />
+      <workItem from="1617836200391" duration="337000" />
+      <workItem from="1617928530287" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="added chapters">
       <created>1616878939867</created>
@@ -139,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617746765636</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added quotes">
+      <created>1617836520347</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617836520347</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
     <MESSAGE value="added more blank templates" />
     <MESSAGE value="add quotes" />
     <MESSAGE value="added blank quote templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="added blank quote templates" />
+    <MESSAGE value="added quotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added quotes" />
   </component>
 </project>
