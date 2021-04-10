@@ -1116,9 +1116,30 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `The government is best administered with virtue;
+        the army is best directed with strategy;
+        the people are best ruled by giving them freedom.<br><br>
+        How do I know this is so?
+        By the Tao.<br><br>
+        The more restrictions are enacted,
+        the poorer the people become.
+        The more soldiers patrol the streets,
+        the more disorderly the city becomes.<br><br>
+        The more officials are crafty and cunning,
+        the harder the people are to control.
+        The more laws and orders are issued,
+        the more thieves and robbers abound.<br><br>
+        The wise ruler says:
+        If I practice restraint,
+        the people will reform themselves.
+        If I love peace,
+        the people will become peaceful.
+        If I am not greedy,
+        the people will become prosperous.
+        If I practice simplicity,
+        the people will remain simple.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Good Government",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
