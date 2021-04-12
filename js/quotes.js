@@ -1145,6 +1145,44 @@ const quotes = [
     photo: "images/"},
 
     {quote:
+      `When an administration practices simplicity,
+        the people are content.
+        When an administration is nosy,
+        the people become unruly.<br><br>
+        When the labor of the many
+        supports the happiness of the few,
+        such 'happiness' only conceals misery.<br><br>
+        Who can stop the cycle? It never ceases.
+        The normal becomes abnormal.
+        The fortunate becomes unfortunate.
+        The people are kept in confusion.<br><br>
+        Wise rulers are square, but they do not poke;
+        they are angular, but do not injure;
+        they are upright, but not cross;
+        they are bright, but not glaring.`,
+    source: "Lao Tzu",
+    citation: "Simple and Square",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
