@@ -1167,9 +1167,19 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `In ruling and in life,
+        nothing surpasses moderation.<br><br>
+        One must form the habit early.
+        Acquiring moderation results in accumulating virtue.
+        By accumulating virtue, nothing is impossible.<br><br>
+        If nothing is impossible, one knows no limits.
+        If one knows no limits, one may rule the empire.<br><br>
+        Those who possess moderation will endure;
+        they have deep roots and strong stems.<br><br>
+        This is the secret to a long life,
+        and lasting insight into the Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Life Without Limits",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
