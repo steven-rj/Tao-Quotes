@@ -1185,9 +1185,17 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `One should do great things as one fries small fish--
+        simply, boldly, without fear.<br><br>
+        By following the Tao,
+        one may successfully rule an empire.
+        Ghosts will not frighten,
+        gods will not harm,
+        charlatans will not mislead the people.<br><br>
+        When the people live freely and fearlessly,
+        virtue will abound.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Fearless",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
