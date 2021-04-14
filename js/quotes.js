@@ -1201,6 +1201,37 @@ const quotes = [
     photo: "images/"},
 
     {quote:
+      `A wel;-governed state is like a woman.<br><br>
+        Just as a woman, through cheerful and able service,
+        wins control over a man,
+        so a great state, by its peaceful generosity to smaller countries,
+        wins their allegiance;
+        and so a small state, by yielding to a great state,
+        wins influence over it.<br><br>
+        Some submit to a conqueror,
+        others conquer by submitting.<br><br>
+        Great states have no higher purpose
+        than to form a federation and feed the people.
+        Small states have no higher purpose
+        than to enter a federation and serve the people.<br><br>
+        They have different ends;
+        but to achieve them.
+        both must practice submission.`,
+    source: "Lao Tzu",
+    citation: "Submission",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
