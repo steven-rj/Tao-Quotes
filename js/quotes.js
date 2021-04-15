@@ -1224,9 +1224,22 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `The Tao is the sanctuary of all--
+        it is the good person's treasure,
+        and the bad person's last resort.<br><br>
+        Beautiful words may sell goods,
+        but it takes kind actions to save people.<br><br>
+        Why should people be put to death for their mistakes?
+        Even criminals can reform.<br><br>
+        Better than riding a horse in the emperor's entourage,
+        is sitting and teaching the Tao to those who need it most.<br><br>
+        The ancients esteemed the Tao
+        because those who seek it will find it,
+        and by it sinners can be saved.<br><br>
+        Is it not so?
+        This is why the world honors the Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "The Saving Tao",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
