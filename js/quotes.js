@@ -1268,9 +1268,30 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `That which is at rest is easily restrained;
+        that which has not yet appeared is easily prevented.
+        That which is weak is easily broken;
+        that which is meager is easily scattered.
+        Consider difficulties before they arise,
+        and order things before they become disorganized.<br><br>
+        A mighty tree grows from a tiny seed.
+        A pagoda of nine stories is built from small bricks.
+        A journey of three thousand miles begins with one step.<br><br>
+        Try to re-shape a thing, and you will deface it;
+        try to control it, and you will lose it.<br><br>
+        The wise, accepting things as they are, deface nothing.
+        Not seizing things, they do not lose them.
+        While others, in their mad rush for wealth,
+        are always chasing success but coming up short.<br><br>
+        To succeed, be as attentive at the end of an enterprise
+        as at the beginning.<br><br>
+        The wise do not desire what they do not possess.
+        They learn to be unlearned;
+        they attend to that which others ignore.<br><br>
+        In that spirit, they help things grow,
+        without interfering.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Attend to the End",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
