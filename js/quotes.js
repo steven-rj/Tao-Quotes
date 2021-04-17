@@ -1245,11 +1245,40 @@ const quotes = [
     photo: "images/"},
 
     {quote:
+      `Avoid striving,
+        and practice non-doing.<br><br>
+        Learn to taste the tasteless,
+        to grow the small things,
+        and to multiply the few.<br><br>
+        Respond to hatred with kindness.
+        Resolve difficulties while they are easy,
+        and manage great things while they are small.<br><br>
+        All the world's problems arise from slight causes,
+        and all great achievements have small beginnings.<br><br>
+        The wise stay out of great affairs,
+        and so establish their greatness.
+        Many things that appear easy
+        are full of difficulties.<br><br>
+        This is why the wise consider everything difficult--
+        so, in the end, they have no difficulties.`,
+    source: "Lao Tzu",
+    citation: "Small Beginnings",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+    {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
-
+    {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
 ]
