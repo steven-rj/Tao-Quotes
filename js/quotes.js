@@ -1295,11 +1295,40 @@ const quotes = [
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
+
     {quote:
+      `In ancient times, rulers who followed the Tao
+        did not puff up the people,
+        but kept them simple-hearted.<br><br>
+        Clever people are difficult to govern.
+        And so, governing people with cleverness is a mistake,
+        while governing people with simplicity is a blessing to all.<br><br>
+        Rulers who follow this become good models.
+        This is governing in the spirit of the Tao.<br><br>
+        The effects of simplicity are profound indeed,
+        deep and far reaching.
+        It is the very opposite of common governing,
+        but it is the most effective way to rule.`,
+    source: "Lao Tzu",
+    citation: "Profound Simplicity",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
+        {quote:
       ``,
     source: "Lao Tzu",
     citation: "",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
+
+   {quote:
+      ``,
+    source: "Lao Tzu",
+    citation: "",
+    //year: 201,
+    //actor: "What is the Tao?",
+    photo: "images/"},
+
 ]
