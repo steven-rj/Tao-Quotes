@@ -1315,10 +1315,22 @@ const quotes = [
     //actor: "What is the Tao?",
     photo: "images/"},
 
-        {quote:
-      ``,
+    {quote:
+      `Rivers and seas rule the land
+        by staying below it.<br><br>
+        Wise rulers, desiring to lead the people,
+        humble themselves and stay below them;
+        wishing to help the people,
+        they stay out of the way.<br><br>
+        Wise rulers live above
+        without burdening the people;
+        they guide without coercion.<br><br>
+        They do not quarrel with anyone,
+        so no one quarrels with them.<br><br>
+        This is why the world rejoices,
+        and never tires of a wise ruler.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Lead From Below",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
