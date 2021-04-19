@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579e77ec-0904-4324-87b6-95031e61ea5d" name="Default Changelist" comment="added quotes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/quotes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
       <workItem from="1618682154191" duration="124000" />
       <workItem from="1618780897571" duration="325000" />
       <workItem from="1618781247720" duration="135000" />
-      <workItem from="1618872030718" duration="103000" />
+      <workItem from="1618872030718" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="added chapters">
       <created>1616878939867</created>
@@ -236,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618781132270</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added quotes">
+      <created>1618872140278</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1618872140278</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
