@@ -1336,9 +1336,29 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `The Tao is by nature immaterial,
+        yet all the world calls it great.
+        It is because the Tao does not put on appearances
+        that it is great.<br><br>
+        When a person puts on a show,
+        trying to appear great,
+        their mediocrity is soon exposed.<br><br>
+        The Tao has three treasures
+        which the wise guard and cherish:
+        The first is compassion,
+        the second is economy,
+        the third is humility.<br><br>
+        If you are compassionate, you can be truly courageous;
+        if you are economical, you can be truly generous;
+        if you are humble, you can be truly helpful.<br><br>
+        If you are brave but lack compassion,
+        are generous but lack economy,
+        and try to help others but lack humility,
+        you've lost the way.<br><br>
+        Compassion leads to victory in battle and safety in defense.
+        Fortune blesses the compassionate.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Compassion",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
