@@ -1364,9 +1364,16 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `The best warrior is not warlike;
+        the best fighter is not frenzied;
+        the best conqueror is not quarrelsome;
+        the best ruler is not unruly.<br><br>
+        Bring out the best in yourself,
+        and you will bring out the best in others.<br><br>
+        This is following the Tao.
+        Since ancient day, it is the way of virtue.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Bring Out The Best",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
