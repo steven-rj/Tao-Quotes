@@ -1379,9 +1379,23 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `A great military general once said,
+        "I dare not invite conflict as a host,
+        but always act as a guest.
+        I hesitate to advance an inch,
+        and am quick to withdraw a foot."<br><br>
+        This is advancing by not advancing;
+        it is winning without weapons;
+        it is charging without rage;
+        it is seizing without force.<br><br>
+        There is no mistake greater
+        than making light of an enemy.
+        Through overconfidence,
+        we make ourselves vulnerable.<br><br>
+        When well-matched armies come to conflict,
+        the one that is aware of its own weakness conquers.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Know Your Weakness",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
