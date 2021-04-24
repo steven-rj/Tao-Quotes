@@ -1401,9 +1401,20 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `My words are easy to understand,
+        and easy to put into practice--
+        yet no one in the world seems to understand them
+        or put them into practice.<br><br>
+        Words have an ancestor--a preceding idea,
+        and deeds have a master--a preceding purpose.
+        As ideas and purposes are often misunderstood,
+        so I am misunderstood.<br><br>
+        My words are precious beyond measure,
+        but I am not one to flaunt my riches.
+        The wise wear plain clothes
+        and keeps their gems out of sight.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Hidden Treasure",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
