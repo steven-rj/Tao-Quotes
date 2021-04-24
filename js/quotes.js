@@ -1420,9 +1420,16 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `Not to know the things
+        you ought to know
+        is folly.<br><br>
+        To know that there are some things
+        you cannot know
+        is wisdom.<br><br>
+        The wise recognize the limits of their knowledge;
+        the foolish think they know everything.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Not Knowing",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
