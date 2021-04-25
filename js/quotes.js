@@ -1435,9 +1435,17 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `When the people are too foolish to recognize danger,
+        disaster will surely come.<br><br>
+        Do not confine the people in tight quarters
+        or they will chafe against your rule.
+        Give them room to breathe,
+        so they will not become restless.<br><br>
+        The wise, while valuing themselves,
+        do not overestimate themselves.
+        They reject flattery and gain true merit.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Room To Breathe",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
