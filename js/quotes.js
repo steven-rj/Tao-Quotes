@@ -1451,9 +1451,22 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `Reckless courage leads to death.
+        Cautious courage leads to life.
+        These two things, courage and caution,
+        must be balanced.<br><br>
+        The right thing at one time
+        is the wrong thing at another.
+        This is why the wise approach everything
+        with both courage and caution.<br><br>
+        The Tao does not fight, yet it conquers.
+        It makes no demands, yet it receives.
+        It issues no summons,
+        but things come to it naturally.<br><br>
+        The Tao's reach is vast, indeed!
+        It casts a wide net, and loses nothing.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Courage and Caution",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
