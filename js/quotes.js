@@ -1481,7 +1481,7 @@ const quotes = [
         for if you pick up the carpenter's sharp tools
         you are liable to cut yourself.`,
     source: "Lao Tzu",
-    citation: "Tools",
+    citation: "Sharp Tools",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
