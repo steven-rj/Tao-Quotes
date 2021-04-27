@@ -1472,9 +1472,16 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `What good is it to threaten people with death?
+        If capital punishment was an effective deterrent,
+        no one would dare commit a crime.<br><br>
+        When administering justice, be careful.
+        The executioner is like a skilled carpenter at his trade.
+        Do not try to take his place--
+        for if you pick up the carpenter's sharp tools
+        you are liable to cut yourself.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Tools",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
