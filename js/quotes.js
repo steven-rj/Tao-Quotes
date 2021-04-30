@@ -1487,9 +1487,16 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `When taxes are excessive,
+        the people starve.
+        When officials are overbearing,
+        the people rebel.
+        When governments make life miserable,
+        the people wish for death.<br><br>
+        Oppressive measures never achieve
+        their intended results.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Oppression",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
