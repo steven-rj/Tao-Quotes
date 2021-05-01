@@ -1502,9 +1502,23 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `A living being is tender and flexible;
+        a corpse is hard and stiff.
+        It is the same with everything--
+        leaves and grass are tender and delicate,
+        but when they die they become rigid and dry.<br><br>
+        Those who are hard and inflexible
+        belong to death's domain;
+        but the gentle and flexible
+        belong to life.<br><br>
+        As soon as a tree reaches its greatest height,
+        it begins to die.
+        The strongest soldiers are those
+        who refuse to conquer.<br><br>
+        The strong stumble, and the mighty fall;
+        the tender and weak rise above.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Stay Flexible",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
