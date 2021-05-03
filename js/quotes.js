@@ -1524,9 +1524,26 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `The Tao resembles the stretching of a bow:
+        it humbles the mighty, and exalts the lowly;
+        it takes from those who have much
+        and gives to those in need.<br><br>
+        This is the Tao--
+        it diminishes those who have abundance,
+        and lavishes those who lack.<br><br>
+        The human way is just the opposite--
+        creditors take from those who lack
+        and give to those who already abound!<br><br>
+        Where are the wealthy who will use
+        their riches to serve the world><br><br>
+        The wise earn much,
+        but claim it not for themselves.
+        They accomplish much,
+        but are not attached to their accomplishments.<br><br>
+        They succeed abundantly,
+        yet make no show of their success.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "The Uses of Wealth",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
