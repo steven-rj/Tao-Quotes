@@ -1549,9 +1549,19 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Nothing is gentler than water,
+        yet nothing can withstand is force.<br><br>
+        Likewise, nothing compares to the Tao.
+        By it the weak defeat the strong;
+        and the flexible conquer the rigid.<br><br>
+        Every one knows this is true,
+        but how few put it into practice!<br><br>
+        Monks and priests are often the worst sinners.
+        Police officers and lawmakers
+        are often the worst criminals.<br><br>
+        Truth is often paradoxical.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Paradoxical Truths",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
