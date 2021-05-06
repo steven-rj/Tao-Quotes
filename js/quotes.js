@@ -1567,9 +1567,18 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      ``,
+      `Wherever there is a legal dispute between two parties,
+        even after it is resolved,
+        bitterness remains.<br><br>
+        How can this be avoided?<br><br>
+        It is virtuous to keep one's obligations,
+        but the wise go beyond this--
+        they do not insist on their rights,
+        but forgive the debts of those who owe them.<br><br>
+        They know that the Tao will reward them
+        for staying out of court.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Avoid Lawsuits",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
