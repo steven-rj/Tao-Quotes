@@ -1584,9 +1584,26 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `In a small country with few people,
+        government is still necessary--
+        but let it be very limited.<br><br>
+        The people should be kept safe and content.
+        Then, though there are carriages and ships,
+        the people will not want to leave their country.<br><br>
+        And though there are shields and swords,
+        there will be no reason to use them.<br><br>
+        The people will freely practice their trades,
+        delight in their cuisine,
+        be content with their clothes,
+        take pride in their homes,
+        and rejoice in their holidays.<br><br>
+        Neighboring countries may be so near
+        that their dogs can be heard barking at night.
+        But your people will be so content,
+        they will grow old and die
+        without ever wanting to leave home!`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "Happy At Home",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
