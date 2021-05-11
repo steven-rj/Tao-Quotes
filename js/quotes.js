@@ -1609,9 +1609,19 @@ const quotes = [
     photo: "images/"},
 
    {quote:
-      ``,
+      `True words are often unpleasant;
+        pleasant words are often untrue.<br><br>
+        Those who know the truth do not argue about it;
+        those who argue do not know the truth.<br><br>
+        Scholars are seldom the wisest people;
+        the wise are seldom scholars.<br><br>
+        Those who steal from others impoverish themselves;
+        those who give to others become rich.<br><br>
+        Those who fight do not win;
+        those who win do not fight.<br><br>
+        This is the way of the Tao.`,
     source: "Lao Tzu",
-    citation: "",
+    citation: "True Words",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
