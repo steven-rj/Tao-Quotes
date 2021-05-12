@@ -140,8 +140,8 @@ const quotes = [
       in power it is order;
       in action it is gentle;
       in movement it is rhythm.<br><br>
-      <p>Because it is always peaceable,
-        it soothes and refreshes.`,
+      Because it is always peaceable,
+      it soothes and refreshes.`,
     source: "Lao Tzu",
     citation: "Goodness",
     //year: 201,
@@ -222,7 +222,7 @@ const quotes = [
     {quote:
       `Flattery and disgrace are both to be feared,
       just as overeating and starvation
-      are both harmful to the body.</p>
+      are both harmful to the body.<br><br>
       Flattery is fattening to the spirit;
       disgrace is emaciating.<br><br>
       Over-concern is just as harmful as disregard.
@@ -241,7 +241,7 @@ const quotes = [
       it is unheard because it is silent;
       if you try to grasp it, it will elude you,
       because it has no form.<br><br>
-      Because of its dierse qualities it cannot be summarized,
+      Because of its diverse qualities it cannot be summarized,
       yet it comprises an essential unity.
       On the surface it appears incomprehensible,
       but in the depths it reveals itself.<br><br>
@@ -252,7 +252,7 @@ const quotes = [
       Its face cannot be seen in front,
       nor its back from behind.
       No one knows where it came from,
-      or where it is going.<br>
+      or where it is going.<br><br>
       Yet, by holding fast to the ancient Tao,
       the wise may grasp the present,
       because they understand the past.<br><br>
@@ -334,7 +334,7 @@ const quotes = [
       yet we praise ourselves for loyalty and faithfulness.<br><br>
       This is great hypocrisy.`,
     source: "Lao Tzu",
-    citation: "Hypocracy",
+    citation: "Hypocrisy",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
@@ -366,7 +366,7 @@ const quotes = [
       is probably not worth worrying about.<br><br>
       There is a vast difference between book learning
       and true knowledge of the Tao!<br><br>
-      Common peopel are joyful--they celebrate feast days,
+      Common people are joyful--they celebrate feast days,
       and hold festivals in spring time.<br><br>
       Scholars scowl like babies that have not learned to smile;
       they look forlorn, like homeless wanderers!<br><br>
