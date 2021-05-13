@@ -422,7 +422,7 @@ const quotes = [
       the world will embrace them.<br><br>
       Is the old saying, "The broken shall be restored."
       a false hope?<br><br>
-      No!<br>
+      No!
       All will be restored and return rejoicing.`,
     source: "Lao Tzu",
     citation: "Redemption",
@@ -541,7 +541,7 @@ const quotes = [
       Being like the valleys of earth,
       their vitality will not desert them--
       they will remain energetic as children.<br><br>
-      Those who know both their strenghts and their limits
+      Those who know both their strengths and their limits
       become models worth following.<br><br>
       Being worthy models,
       their vitality will not fail them
@@ -618,7 +618,7 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      `The eternal Tao is unnamable.
+      `The eternal Tao is unnameable.
       In its simplicity it appears insignificant,
       but the whole world cannot contain it.<br><br>
       If rulers would follow it,
@@ -636,7 +636,7 @@ const quotes = [
       The Tao is like a stream
       that empties into an ocean.`,
     source: "Lao Tzu",
-    citation: "Where To Stop",
+    citation: "Where to Stop",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
@@ -682,7 +682,7 @@ const quotes = [
       The world will go to those who seek the Tao;
       they will find contentment, peace, and rest.`,
     source: "Lao Tzu",
-    citation: "Seek The Tao",
+    citation: "Seek the Tao",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
@@ -712,8 +712,8 @@ const quotes = [
       all problems would resolve themselves.<br><br>
       The way of the Tao is simple--
       stop striving, defeat desire.
-      In the absense of striving, there is peace;
-      in the absense of desire, there is satisfaction.`,
+      In the absence of striving, there is peace;
+      in the absence of desire, there is satisfaction.`,
     source: "Lao Tzu",
     citation: "Stop Striving",
     //year: 201,
