@@ -913,7 +913,7 @@ const quotes = [
       The wise explore without traveling,
       discern without seeing,
       finish without striving,
-      and arrive at their destintaion
+      and arrive at their destination
       without leaving home.`,
     source: "Lao Tzu",
     citation: "Explore Within",
@@ -970,7 +970,7 @@ const quotes = [
         The rhinoceros cannot find a place to horn them,
         nor the tiger a place to claw them,
         nor soldiers a place to wound them.<br><br>
-        Why?<br>
+        Why?
         Because the wise are invulnerable.`,
     source: "Lao Tzu",
     citation: "Invulnerable",
@@ -1064,7 +1064,7 @@ const quotes = [
         one nation for other nations,
         one empire for all empires`,
     source: "Lao Tzu",
-    citation: "A Model For Others",
+    citation: "A Model for Others",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
@@ -1201,7 +1201,7 @@ const quotes = [
     photo: "images/"},
 
     {quote:
-      `A wel;-governed state is like a woman.<br><br>
+      `A well-governed state is like a woman.<br><br>
         Just as a woman, through cheerful and able service,
         wins control over a man,
         so a great state, by its peaceful generosity to smaller countries,
