@@ -1373,7 +1373,7 @@ const quotes = [
         This is following the Tao.
         Since ancient day, it is the way of virtue.`,
     source: "Lao Tzu",
-    citation: "Bring Out The Best",
+    citation: "Bring Out the Best",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
@@ -1603,7 +1603,7 @@ const quotes = [
         they will grow old and die
         without ever wanting to leave home!`,
     source: "Lao Tzu",
-    citation: "Happy At Home",
+    citation: "Happy at Home",
     //year: 201,
     //actor: "What is the Tao?",
     photo: "images/"},
